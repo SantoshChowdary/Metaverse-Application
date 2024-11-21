@@ -17,7 +17,7 @@ Metaverse 2D is an innovative project that brings the concept of metaverse to a 
 
 ## Tech Stack
 
-### Frontend
+### Frontend (Yet to code)
 - React.js
 - HTML5 Canvas
 - WebSocket client
